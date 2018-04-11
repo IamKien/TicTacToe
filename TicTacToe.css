@@ -1,0 +1,50 @@
+body{
+  margin: 0;
+  font-family: "Montserrat", "Avenir";
+}
+
+
+h1{
+  text-align: center;
+  font-size: 5em;
+  margin: 0;
+}
+
+#space{
+  width: 20%;
+  display: inline-block;
+}
+
+#stripe{
+  height: 30px;
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+}
+
+#container{
+  width: 400px;
+  height: 400px;
+  margin: 20px auto;
+  text-align: center;
+  font-size: 5em;
+}
+
+.box{
+  height: 30%;
+  width: 30%;
+  border: 1px solid black;
+  float: left;
+}
+
+
+#message{
+  width: 20%;
+  margin-left: 30px;
+  display: inline-block;
+}
+
+button{
+  font-size: 20px;
+  margin-right: 10%;
+}
